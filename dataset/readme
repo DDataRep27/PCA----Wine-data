@@ -6,31 +6,31 @@ The data contains no missing values and consits of only numeric data, with a thr
 A data frame containing 178 observations of 13 variables.
 
 Format:
-Type
+-Type
 The type of wine, into one of three classes, 1 (59 obs), 2(71 obs), and 3 (48 obs).
 
-Alcohol
+*Alcohol
 
-Malic acid
+*Malic acid
 
-Ash
+*Ash
 
-Alcalinity of ash
+*Alcalinity of ash
 
-Magnesium
+*Magnesium
 
-Total phenols
+*Total phenols
 
-Flavanoids
+*Flavanoids
 
-Nonflavanoid phenols
+*Nonflavanoid phenols
 
-Proanthocyanins
+*Proanthocyanins
 
-Color intensity.
+*Color intensity.
 
-Hue
+*Hue
 
-Dilution
+*Dilution
 
-Proline
+*Proline
